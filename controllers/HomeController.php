@@ -2,7 +2,7 @@
 
 function index(){
     $user = getAllUser();
-
+  nnnnnnnnnnnn
     require_once PATH_VIEW . 'home.php';
 }
 
